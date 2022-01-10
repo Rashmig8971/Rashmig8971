@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rashmig8971
-- 🌱 I’m currently working as Jr. Software Engineer
+- 🌱 I’m currently working as trainee Software developer.
 - 📫 How to reach me : rashmig8971@gmail.com
 
 <!---
